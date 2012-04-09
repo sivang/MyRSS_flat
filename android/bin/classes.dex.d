@@ -1,0 +1,24 @@
+/home/sivan/MyRSS_flat/android/bin/classes.dex : \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R$array.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R$drawable.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R$attr.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R$layout.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R.class \
+/home/sivan/MyRSS_flat/android/bin/classes/org/kde/necessitas/example/MyRSS/R$string.class \
